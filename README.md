@@ -1,57 +1,73 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi👋, I'm Pradeep
 
-💻 **Aspiring Full-Stack Developer** | 🌱 **Lifelong Learner**
+**Aspiring Full-Stack Developer** | **Passionate about Technology**
 
-Welcome to my GitHub profile! I am passionate about technology and continuous learning. Here's a bit more about me:
+![Profile Views](https://komarev.com/ghpvc/?username=PradeepArivazhagan&color=green)
+![Follwers](https://img.shields.io/github/followers/PradeepArivazhagan?label=Followers&style=social)
 
-## 🚀 About Me
+Welcome to my GitHub profile! Here's a bit more about me:
 
-- 🎓 **Education**: I have a background in engineering.
-- 🌱 **Current Learning**: I'm currently enhancing my skills in full-stack development with advanced technologies through the Nxt Wave program.
-- 📈 **Growth Cycle**: Completed up to Growth Cycle 4 in Nxt Wave.
-- 🔭 **Interests**: Creating innovative solutions through technology.
+## 🧑 About Me
 
-## 🔧 Technologies & Tools
+- 🎓 **Education**: I have a background in Engineering.
+- 🚩 **Current Learning**: I'm enhancing my Full-stack development skills with advanced technologies through the Nxt Wave program.
+- 🔭 **Interests**: Creating innovative solutions through technology. And also interested in Editing, Graphic Design , 3D Modeling and More...
+- 🌐 **Check out**: https://pradeeparivazhagan.netlify.app/
+- 📫 **Reach me At**: pradeeparivazhagan123@gmail.com
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+## </> Languages
 
-## 📝 Projects
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+
+## 🛠️ Tools and Softwares
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="48" height="48" src="https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/48/external-github-social-media-tanah-basah-glyph-tanah-basah.png" alt="external-github-social-media-tanah-basah-glyph-tanah-basah"/><img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/adobe-xd--v1.png" alt="adobe-xd--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/davinci-resolve.png" alt="davinci-resolve"/><img width="48" height="48" src="https://img.icons8.com/color/48/blender-3d.png" alt="blender-3d"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/sublime-text.png" alt="sublime-text"/><img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+
+## 🗂️ Recent Projects
 
 Here are a few projects I've worked on or am currently working on:
 
-- **Project Name**: A brief description of the project.
-  - Technologies Used: `Technology1`, `Technology2`, `Technology3`
-  - [Repository Link](#)
-  - [Live Demo](#)
+- **Organic - Grocery Shopping Site**: "Organic" - a vibrant vegetable and fruit buying website built entirely with React.js, Bootstrap, and CSS.
+  - Technologies Used: `React JS`, `Boostrap`, `CSS`.
+  - [Repository Link](https://github.com/PradeepArivazhagan/organic-site-reactjs).
+  - [Live Demo](https://organic-reactjs.netlify.app/)
 
-- **Project Name**: A brief description of the project.
-  - Technologies Used: `Technology1`, `Technology2`, `Technology3`
-  - [Repository Link](#)
-  - [Live Demo](#)
+- **Portfolio**: My Portfolio Website to Showcase My Skills.
+  - Technologies Used: `HTML`, `CSS`, `Bootstrap`,`JavaScript`.
+  - [Repository Link](https://github.com/PradeepArivazhagan/Pradeep-portfolio-site)
+  - [Live Demo](https://pradeeparivazhagan.netlify.app/)
+ 
+## 📶 My Stats and Streaks
 
-## 📫 Connect with Me
+<p align="center">
+    <img alt="Pradeed Github Stats" src="https://github-readme-stats.vercel.app/api?username=PradeepArivazhagan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepArivazhagan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Website/Portfolio](https://your-website.com)
+<p align="center">
+    <a href="https://github.com/PradeepArivazhagan/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepArivazhagan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-## 📊 GitHub Stats
+    
+## 📈 My Coding Activity
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&theme=radical)
+[![Pradeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PradeepArivazhagan&bg_color=060A0CD0&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true&theme=radical)
+## 🤝 Connect with Me
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/PradeepArivazhagan"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href="https://x.com/pradeep6723"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+</p>
 
 ## ✨ Fun Fact
 
-I love exploring how technology can improve everyday life and create innovative solutions.
+<p align="center">
+<i>I love exploring how technology can improve everyday life and create innovative solutions.</i>
+</p>
 
 ---
 
-⭐️ From [Your Name](https://github.com/your-github-username)
+⭐️ From [Pradeep Arivazhagan](https://github.com/PradeepArivazhagan)
