@@ -1,16 +1,15 @@
 # Hi there, I'm [Your Name]! 👋
 
-🎓 **Agriculture Engineer** | 💻 **Aspiring Full-Stack Developer** | 🌱 **Lifelong Learner**
+💻 **Aspiring Full-Stack Developer** | 🌱 **Lifelong Learner**
 
-Welcome to my GitHub profile! I am passionate about technology, agriculture, and continuous learning. Here's a bit more about me:
+Welcome to my GitHub profile! I am passionate about technology and continuous learning. Here's a bit more about me:
 
 ## 🚀 About Me
 
-- 🎓 **Education**: I have an undergraduate degree in Agriculture Engineering.
-- 💼 **Career**: I have received job offers from two companies in my core field.
+- 🎓 **Education**: I have a background in engineering.
 - 🌱 **Current Learning**: I'm currently enhancing my skills in full-stack development with advanced technologies through the Nxt Wave program.
 - 📈 **Growth Cycle**: Completed up to Growth Cycle 4 in Nxt Wave.
-- 🔭 **Interests**: Combining technology with agriculture to create innovative solutions.
+- 🔭 **Interests**: Creating innovative solutions through technology.
 
 ## 🔧 Technologies & Tools
 
@@ -51,7 +50,7 @@ Here are a few projects I've worked on or am currently working on:
 
 ## ✨ Fun Fact
 
-I love exploring how technology can improve agricultural practices and make them more sustainable and efficient.
+I love exploring how technology can improve everyday life and create innovative solutions.
 
 ---
 
