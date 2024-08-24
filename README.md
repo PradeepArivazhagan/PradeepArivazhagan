@@ -32,12 +32,12 @@ Here are a few projects I've worked on or am currently working on:
   - [Live Demo](https://www.linkedin.com/posts/pradeeparivazhagan_mernstack-fullstackdevelopment-reactjs-activity-7219958282830929920-pC3c?utm_source=share&utm_medium=member_desktop)
 
 - **Nxtwatch - Like Youtube**: This is assignment Project while learning.
-  - Technologies Used: `React JS`, `Bootstrap`, `CSS`.
+  - Technologies Used: `React JS`, `Styled Components`, `Cookies`, `React Icons`, `React Player`, `React Popup`.
   - [Repository Link](https://github.com/PradeepArivazhagan/Pradeep_Nxtwatch).
   - [Live Demo](https://apnxt.ccbp.tech/) Refer username password on my website.
 
 - **Jobby App - Job Searching Platform**: This is assignment Project while learning.
-  - Technologies Used: `React JS`, `Bootstrap`, `CSS`.
+  - Technologies Used: `React JS`, `React JS`, `CSS`, `Cookies`, `REST API`, `React Icons`, `React Router`.
   - [Repository Link](https://github.com/PradeepArivazhagan/Pradeep_JobbyApp).
   - [Live Demo](https://apjobs.ccbp.tech/login) Refer username password on my website.
  
