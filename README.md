@@ -26,15 +26,20 @@ Welcome to my GitHub profile! Here's a bit more about me:
 
 Here are a few projects I've worked on or am currently working on:
 
-- **Organic - Grocery Shopping Site**: "Organic" - a vibrant vegetable and fruit buying website built entirely with React.js, Bootstrap, and CSS.
-  - Technologies Used: `React JS`, `Bootstrap`, `CSS`.
-  - [Repository Link](https://github.com/PradeepArivazhagan/organic-site-reactjs).
-  - [Live Demo](https://organic-reactjs.netlify.app/)
+- **Blogix - Blog Website**: My first MERN Stack Web App Project. Done based on the concept of a blog website.
+  - Technologies Used: `React JS`, `Mongo DB`, `Node JS`, `Express JS`, `React Bootstrap`.
+  - [Repository Link](https://github.com/PradeepArivazhagan/Blogix-Mern-App).
+  - [Live Demo](https://www.linkedin.com/posts/pradeeparivazhagan_mernstack-fullstackdevelopment-reactjs-activity-7219958282830929920-pC3c?utm_source=share&utm_medium=member_desktop)
 
-- **Portfolio**: My Portfolio Website to Showcase My Skills.
-  - Technologies Used: `HTML`, `CSS`, `Bootstrap`, `JavaScript`.
-  - [Repository Link](https://github.com/PradeepArivazhagan/Pradeep-portfolio-site)
-  - [Live Demo](https://pradeeparivazhagan.netlify.app/)
+- **Nxtwatch - Like Youtube**: This is assignment Project while learning.
+  - Technologies Used: `React JS`, `Bootstrap`, `CSS`.
+  - [Repository Link](https://github.com/PradeepArivazhagan/Pradeep_Nxtwatch).
+  - [Live Demo](https://apnxt.ccbp.tech/) Refer username password on my website.
+
+- **Jobby App - Job Searching Platform**: This is assignment Project while learning.
+  - Technologies Used: `React JS`, `Bootstrap`, `CSS`.
+  - [Repository Link](https://github.com/PradeepArivazhagan/Pradeep_JobbyApp).
+  - [Live Demo](https://apjobs.ccbp.tech/login) Refer username password on my website.
  
 ## 📶 My Stats and Streaks
 
